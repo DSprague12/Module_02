@@ -12,6 +12,8 @@ Language: C++
 Libraries: Standard C++ Library (iostream, vector, etc.)
 No external third-party libraries were required for this project
 
+CodePilot was used for troubleshooting/debugging
+
 # Useful Websites
 
 - [Web Site Name](https://www.learncpp.com/)
